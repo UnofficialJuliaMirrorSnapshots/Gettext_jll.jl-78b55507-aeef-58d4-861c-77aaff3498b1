@@ -1,0 +1,113 @@
+[[Gettext]]
+arch = "x86_64"
+git-tree-sha1 = "23501bda2685b36205bb637cfc6277d04f947ad4"
+libc = "glibc"
+os = "linux"
+
+    [[Gettext.download]]
+    sha256 = "e6f9b82be1cee60184eb919fadba49f16044539d5902f612343d921c086aeab9"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.x86_64-linux-gnu.tar.gz"
+[[Gettext]]
+arch = "x86_64"
+git-tree-sha1 = "00e320531a8b819de94008559bbd8793a2c59eaa"
+os = "macos"
+
+    [[Gettext.download]]
+    sha256 = "058ff69545db8ea66a70afb9d9991a824b471a88de48daa0a416daa131c68c80"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.x86_64-apple-darwin14.tar.gz"
+[[Gettext]]
+arch = "i686"
+git-tree-sha1 = "c078bf9e014dc6a0f53d8c6f2321c8dd20fdb43c"
+os = "windows"
+
+    [[Gettext.download]]
+    sha256 = "f667caf54f21fa9e6724ac1b96528dc754d95fa4406eb8ded8d59335015d5248"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.i686-w64-mingw32.tar.gz"
+[[Gettext]]
+arch = "aarch64"
+git-tree-sha1 = "2768753046f93a52f0c1c12e390de228f9aa26ce"
+libc = "glibc"
+os = "linux"
+
+    [[Gettext.download]]
+    sha256 = "088b2a3a3ed4f9308a4075b103325d21dbe979cc5f4b7b519e24ca653383b9fc"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.aarch64-linux-gnu.tar.gz"
+[[Gettext]]
+arch = "i686"
+git-tree-sha1 = "e9fa48e5f33a224f60e41262b17e7a23628ce64e"
+libc = "musl"
+os = "linux"
+
+    [[Gettext.download]]
+    sha256 = "fd7ad287c278855fa02abb6be15b423525266f43bcf53d6802f2af6b40313ea3"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.i686-linux-musl.tar.gz"
+[[Gettext]]
+arch = "x86_64"
+git-tree-sha1 = "753c214aa23d686150c647d64aa5b4f73007a3b1"
+os = "windows"
+
+    [[Gettext.download]]
+    sha256 = "222f6e71ef3cfe3f3bdb089984e422e93cb65d138a835c764e6fd88b81c03ed6"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.x86_64-w64-mingw32.tar.gz"
+[[Gettext]]
+arch = "powerpc64le"
+git-tree-sha1 = "32d45906256ff292e4d1a5e167cb574c98855a7b"
+libc = "glibc"
+os = "linux"
+
+    [[Gettext.download]]
+    sha256 = "ad1a6e81cde9d0da01084cd9c014a665461229cecb6d05fe60657f45c4786a03"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.powerpc64le-linux-gnu.tar.gz"
+[[Gettext]]
+arch = "x86_64"
+git-tree-sha1 = "db8296d7845e41588b178f9642deb37e2099f99c"
+os = "freebsd"
+
+    [[Gettext.download]]
+    sha256 = "391f30c66ef34f26d64fe74954cd9c7c184b6762409a29fcb9ff54421b5e8f25"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[Gettext]]
+arch = "armv7l"
+git-tree-sha1 = "1f4fb6a17752cdac224604ec029d795b336a5c73"
+libc = "musl"
+os = "linux"
+
+    [[Gettext.download]]
+    sha256 = "4aee2e1833728922573f90251e70c3f18bf7c5c4781f54e228c569b71ab41a73"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.arm-linux-musleabihf.tar.gz"
+[[Gettext]]
+arch = "aarch64"
+git-tree-sha1 = "843bf2d7722907184887ecb43837fdd5dc38a5f9"
+libc = "musl"
+os = "linux"
+
+    [[Gettext.download]]
+    sha256 = "139a57ad6208dd45fb3fb6dcc5127adc08a614ad6229b7e750f545b75e5a8e9a"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.aarch64-linux-musl.tar.gz"
+[[Gettext]]
+arch = "i686"
+git-tree-sha1 = "f3933f848f0883a12eae5893cadb355a92df6826"
+libc = "glibc"
+os = "linux"
+
+    [[Gettext.download]]
+    sha256 = "694ea74b382c91c06660ccc4ebc7e0cce28aac46c9f596d2851a810f6fa7e9b4"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.i686-linux-gnu.tar.gz"
+[[Gettext]]
+arch = "x86_64"
+git-tree-sha1 = "f492071d5829cb503f9a917f18ff2ac8f43a32b4"
+libc = "musl"
+os = "linux"
+
+    [[Gettext.download]]
+    sha256 = "0c32bf677cc0df897b26ab5b5e3a1e23a812e1bc0cddaa8f5abe314c7c5bf0c2"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.x86_64-linux-musl.tar.gz"
+[[Gettext]]
+arch = "armv7l"
+git-tree-sha1 = "0902aae0c24857936e9fc764f38eeef60a015a3d"
+libc = "glibc"
+os = "linux"
+
+    [[Gettext.download]]
+    sha256 = "3ae5dc143318c6b5522a42b064f697cd846dfc0ed85841b6d06849cf52417f27"
+    url = "https://github.com/JuliaBinaryWrappers/Gettext_jll.jl/releases/download/Gettext-v0.20.1+0/Gettext.v0.20.1.arm-linux-gnueabihf.tar.gz"
